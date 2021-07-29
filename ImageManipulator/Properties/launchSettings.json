@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "ImageManipulator": {
+      "commandName": "Project",
+      "commandLineArgs": "-a Flip car.jpg car2.jpg"
+    },
+    "Help": {
+      "commandName": "Project",
+      "commandLineArgs": "-?"
+    }
+  }
+}
